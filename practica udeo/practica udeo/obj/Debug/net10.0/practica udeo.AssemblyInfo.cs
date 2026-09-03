@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("practica udeo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52427f34611b3cf067a81c017768b4056c42530b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84c318f3627923e9f7cd97759392df4663cafd94")]
 [assembly: System.Reflection.AssemblyProductAttribute("practica udeo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("practica udeo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
