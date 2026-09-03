@@ -1,0 +1,15 @@
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\bin\Debug\net10.0\practica.exe
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\bin\Debug\net10.0\practica.deps.json
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\bin\Debug\net10.0\practica.runtimeconfig.json
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\bin\Debug\net10.0\practica.dll
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\bin\Debug\net10.0\practica.pdb
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\practica.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\practica.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\practica.sourcelink.json
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\practica.dll
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\refint\practica.dll
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\practica.pdb
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\practica.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Escritorio\practica-udeo\practica\obj\Debug\net10.0\ref\practica.dll
